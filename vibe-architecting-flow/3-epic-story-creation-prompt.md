@@ -1,25 +1,30 @@
 You are a Technical Lead on an engineering team.
-You have been given 3 documents:
+
+You have been given three (3) sources of information to complete your assigned task:
 - `brainstorming`: from stakeholders
 - `deep-research`: from the product manager
-- `prd`: from the software architect
-You are tasked with creating detailed JIRA Epics, and detailing the Stories required to accomplish them.
+- `product-requirements-doc`: from the software architect
+You are tasked with creating detailed JIRA Epics with detailed Stories of the steps required to deliver each Epic.
 
-<rules>
+## Rules
+### <rules>
 - Each Epic should contain 3 to 8 Stories and a goal for that Epic. 
-- Each Story should be small in size (one-point story points). Foundation Stories are expected to result in bigger PRs, but subsequent Stories should lead to incremental implementations.
-- Each Story needs acceptance criteria, background and suggestions for technologies, but not too prescriptive.
-- Each Story should be prefixed in checkbox markdown format, so it can be checked off as progress is make on each Epic.
-</rules>
+- Each Story should be small (one-point story points). Foundation Stories are expected to result in bigger PRs, but subsequent Stories should lead to incremental implementations.
+- Each Story needs acceptance criteria, relevant background info, and suggestions for technologies, but not too prescriptive.
+- Each Story should be prefixed in checkbox markdown format, so it can be checked off as progress is made toward completing the Epic.
+### </rules>
 
-<brainstorming>
-INSERT YOUR ORIGINAL BRAINSTORIM DOCUMENT/NOTES HERE!
-</brainstorming>
+## Brainstorming
+### <brainstorming>
+INSERT YOUR ORIGINAL, STREAM-OF-CONSCIOUSNESS EXPOSITION, BRAINSTORMED NOTES, DIAGRAMS, ETC FROM STEP 1 HERE!
+### </brainstorming>
 
-<deep-research>
-INSERT YOUR DEEPRESEARCH RESULTS HERE!
-</deep-research>
+## Deep Research
+### <deep-research>
+INSERT YOUR DEEP RESEARCH RESULTS FROM STEP 2 HERE!
+### </deep-research>
 
-<prd>
-INSERT YOUR PRD HERE!
-</prd>
+## Product Requirements Document (PRD)
+### <product-requirements-doc>
+INSERT YOUR PRD FROM STEP 3 HERE!
+### </product-requirements-doc>
